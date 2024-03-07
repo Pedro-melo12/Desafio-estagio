@@ -1,0 +1,19 @@
+Na primeira visita à sala das lâmpadas:
+
+Ligue o primeiro interruptor e aguarde alguns minutos.
+Desligue o primeiro interruptor e, em seguida, ligue o segundo interruptor.
+Agora, há três cenários possíveis:
+
+Se a lâmpada estiver acesa, ela está conectada ao segundo interruptor.
+Se a lâmpada estiver apagada e ainda estiver fria, ela está conectada ao primeiro interruptor.
+Se a lâmpada estiver apagada, mas estiver quente, ela está conectada ao terceiro interruptor.
+Na segunda visita à sala das lâmpadas:
+
+Agora, você já sabe qual interruptor controla cada lâmpada.
+Se a lâmpada estiver acesa, você sabe que é o segundo interruptor.
+Se a lâmpada estiver apagada e fria, é o primeiro interruptor.
+Se a lâmpada estiver apagada, mas quente, é o terceiro interruptor.
+Dessa forma, com apenas duas visitas à sala das lâmpadas, é possível determinar qual interruptor controla cada lâmpada. Essa estratégia aproveita o tempo que as lâmpadas levam para esfriar após serem desligadas, permitindo identificar as associações entre os interruptores e as lâmpadas.
+
+
+

@@ -1,0 +1,6 @@
+Letra A = 9
+Letra B = 128
+Letra C = 49
+Letra D = 100
+Letra E = 13
+Letra F = 20
